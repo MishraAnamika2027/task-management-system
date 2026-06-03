@@ -27,24 +27,6 @@ A full-stack task management application built using React, Node.js, Express, an
 - JWT
 - Multer
 
-## Installation
-
-### Backend
-
-cd backend
-
-npm install
-
-npm run dev
-
-### Frontend
-
-cd frontend
-
-npm install
-
-npm run dev
-
 ## API Endpoints
 
 ### Auth
